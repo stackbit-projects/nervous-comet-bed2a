@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m John.'
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    posts_number: 0
+    posts_number: 1
     actions: []
     type: section_posts
   - section_id: lorem-ipsum
