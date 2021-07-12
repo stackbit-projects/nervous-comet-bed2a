@@ -8,17 +8,16 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >+
-      I like learning new skills that can help me succeed to my journey of
-      improving my self
+    content: >
+      *   **I like learning new skills that can help me succeed to my journey of
+      improving my self**
 
 
-      " keep believing in yourself because there's a lot of potential  skill
+      >  keep believing in yourself because there's a lot of potential  skill
       that is still waiting for you to tap in
 
 
-      if that happen everything you want will come to you effortlessly" .
-
+      > if that happen everything you want will come to you effortlessly" .
     actions:
       - label: Contact Me
         url: /contact
