@@ -5,6 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m John.'
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
   - section_id: about
     type: section_content
     title: About
