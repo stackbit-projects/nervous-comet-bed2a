@@ -14,13 +14,30 @@ sections:
     title: About
     content: >
       *   **I like learning new skills that can help me succeed to my journey of
-      improving my self**
+      improving my self.**
+
+
+      **              I'm not a developer or software engineer wish I was but
+      I'm trying my best to learn. Because **I** believe I have a lot learn ,
+      and so many things to discover  not only about myself but everything that
+      is  created by nature  and to know  my purpose of being alive I know  its
+      weird that one day this question pop's out of nowhere .**
+
+
+      **          And by the way I hope your doing well don't get distracted to
+      these illusion's created by us,  for us not to pursue what we really want
+      .**
 
 
       ****
 
 
-      ******
+
+
+      ***
+
+
+      ***
     actions:
       - label: Contact Me
         url: /contact
