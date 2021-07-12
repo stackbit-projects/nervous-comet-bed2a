@@ -8,11 +8,17 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      I like learning new skills that can help me succeed to my journey of
+      improving my self
+
+
+      " keep believing in yourself because there's a lot of potential  skill
+      that is still waiting for you to tap in
+
+
+      if that happen everything you want will come to you effortlessly" .
+
     actions:
       - label: Contact Me
         url: /contact
