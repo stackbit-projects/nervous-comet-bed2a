@@ -13,11 +13,10 @@ sections:
       improving my self**
 
 
-      >  keep believing in yourself because there's a lot of potential  skill
-      that is still waiting for you to tap in
+      ****
 
 
-      > if that happen everything you want will come to you effortlessly" .
+      ******
     actions:
       - label: Contact Me
         url: /contact
