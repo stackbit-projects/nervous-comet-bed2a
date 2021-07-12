@@ -5,9 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m John.'
-    content: >
-      I like learning new skills that can help me succeed to my journey of
-      improving my self 
   - section_id: about
     type: section_content
     title: About
